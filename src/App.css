@@ -1,0 +1,19 @@
+.kieter {
+    margin: 100px 0 0 200px;
+    outline: red;
+    color: white;
+    font-family: Consolas;
+    font-size: 36px;
+}
+
+a {
+    display: inline-block;
+    color: #fff;
+    -webkit-transition:color 0.5s ease-in;
+}
+
+a:hover {color: aquamarine}
+
+div {
+    display: inline-block;
+}
